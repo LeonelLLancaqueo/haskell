@@ -1,0 +1,3 @@
+
+piramide :: Int -> Char
+
